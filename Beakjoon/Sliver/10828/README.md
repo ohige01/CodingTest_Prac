@@ -1,8 +1,8 @@
 <h2><a href="https://www.acmicpc.net/problem/10828">🚀10828번 문제</a></h2>
 
 ![image](https://github.com/user-attachments/assets/3cf0d206-de54-4ed0-8282-676534fa5cb9)
-<h2>🛠️로직설명</h2>
-
+<h2>🛠️코드 & 설명</h2>
+<a href="https://www.acmicpc.net/source/83428343"><b>코드</b></a><br>
 <h2>📝오답노트</h2>
 
 ![image](https://github.com/user-attachments/assets/fb1edad5-e0d3-4ced-be23-a28beb778322)
