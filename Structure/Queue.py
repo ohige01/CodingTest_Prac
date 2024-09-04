@@ -8,12 +8,12 @@ while(1):
     if menu == -1:
         exit()
     elif menu == 0:
-        #push 연산
+        #enqueue 연산
         x = int(input("typing the value: "))
         list_q.append(x)
     elif menu == 1:
         if len(list_q) > 0 :
-            #pop 연산
+            #dequeue 연산
             list_q.pop(0)
     else:
         print("invalid value")
