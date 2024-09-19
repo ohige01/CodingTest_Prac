@@ -28,6 +28,6 @@
 
   <h3>✨참고자료</h3>
   1. <a href="https://malwareanalysis.tistory.com/156">input()과 sys.stdin.readline() 속도비교</a><br>
-  2. <a href="https://malwareanalysis.tistory.com/156">[Python] Input vs. sys.stdin.readline 차이점?</a><br>
+  2. <a href="https://buyandpray.tistory.com/7">[Python] Input vs sys.stdin.readline 차이점?</a><br>
 </details>
 <br><br>
